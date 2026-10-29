@@ -1,0 +1,175 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.fbheader{
+    background-color: #1877F2;
+   
+    padding: 15px;
+    
+}
+.fblogo{
+    color: white;
+    font-family: "Open Sans", sans-serif
+   
+}
+.logform{
+    position: absolute;
+    right: 30px;
+    top: 18px;
+}
+#emaillab{
+    position: absolute;
+    color: white;
+    top: -16px;
+}
+#pswlab{
+    position: absolute;
+    color: white;
+    top: -16px;
+}
+#forgot{
+    position: absolute;
+    color: white;
+    top: 20px;
+    right: 95px;
+}
+#logbtn{
+    background-color: lightblue;
+    color: white;
+    box-shadow: 3px 3px 2px black; 
+}
+#create{
+    font-size: 30px;
+    position: absolute;
+    top: 59px;
+    right: 265px;
+    font-weight: 500;
+    font-family: "Roboto Condensed", sans-serif;
+}
+#quick{
+    font-size: 20px;
+    top: 110px;
+    right: 163px;
+    position: absolute;
+    font-family: "Roboto Condensed", sans-serif;
+}
+#Firstname{
+    position: absolute;
+    top: 163px;
+    right: 229px;
+    
+    
+}
+#Lastname{
+    position: absolute;
+    top: 163px;
+    
+    right: 48px;
+}
+#mobile{
+    position: absolute;
+    top: 200px;
+    right: 48px;
+}
+#newpsw{
+    position: absolute;
+    top: 281px;
+    right: 48px;
+}
+#dob{
+    position: absolute;
+    top: 328px;
+    right: 308px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+#date{
+    position: absolute;
+    top: 353px;
+    right: 278px;
+}
+#gender1{
+    position: absolute;
+    top: 390px;
+    right: 278px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+a{
+    color: purple;
+}
+#para{
+    position: absolute;
+    top: 460px;
+    right: 31px;
+}
+#createbtn{
+    background-color: green;
+    color: white;
+    position: absolute;
+    top: 550px;
+    right: 195px;
+    height: 44px;
+    width: 167px;
+    font-size: medium;
+}
+#quote{
+    color: #385898;
+    position: absolute;
+    top: 63px;
+    left: 57px;
+    font-size: larger;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    z-index: 2;
+}
+#fbimage{
+    height: 486px;
+    width: 570px;
+    top: 60px;
+    position: absolute;
+    z-index: 1;
+}
+body{
+    background-color: #F1F5F9;
+}
+.rightside{
+    position: relative;
+    right: 100px;
+    top: -25px;
+}
+.leftside{
+    position: relative;
+    left: 50px;
+}
+#botpar{
+    font-size: large;
+    position: absolute;
+    top: 625px;
+    right: 57px;
+}
+.dob-info{
+    position: absolute;
+    right: 55px;
+    top: 353px;
+    font-size: small;
+}
+#logged{
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    
+}
+#reemail{
+    position: absolute;
+    top: 240px;
+    right: 48px;
+}
+#logged1{
+    position: absolute;
+    top: 23px;
+    left: 24px;
+    color: white;
+}
